@@ -1,0 +1,25 @@
+.news-app {
+    width: 80%;
+    margin-inline: auto;
+}
+
+.query-input {
+    width: 40%;
+    margin: 20px;
+    padding: 20px;
+    font-size: 1.5rem;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.btn-submit {
+    margin-bottom: 20px;
+    padding: 20px;
+    font-size: 1.5rem;
+    border-radius: 25px;
+}
+
+.btn-submit:hover {
+    font-weight: bolder;
+    cursor: pointer;
+}
